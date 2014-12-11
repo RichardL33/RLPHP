@@ -1,0 +1,97 @@
+a {
+	text-decoration: none;
+}
+
+header {
+	background-color: #179bd7;
+	padding: 20px 50px 0;
+	text-align: right;
+	color: greenyellow;
+}
+
+header a {
+	color: #FFF;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: Century Gothic, sans-serif;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+form {
+	text-align: center;
+	font-family: Century Gothic, sans-serif;
+}
+
+footer {
+	background-color: #253b80;
+	text-align: center;
+	padding: 5px 0;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+
+footer a {
+	color: #FFF;
+	font-family: Century Gothic, sans-serif;
+}
+
+#reg_btn {
+	margin-top: 20px;
+}
+
+#rollout{
+	margin-top: 10px;
+}
+
+.user {
+	font-size: .75em;
+	color: green;
+	text-align: center;
+}
+
+.user_profile {
+	padding: 20px 0;
+	font-size: 3em;
+}
+
+.friends {
+	float: left;
+}
+
+.wall_title {
+	font-size: 3em;
+	color: blue;
+}
+
+.comments {
+	border-radius: 5px;
+	font-size: 2em;
+}
+
+.avatar {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+}
+
+.form {
+	text-align: center;
+}
+
+.comment_box {
+	text-align: center;
+}
+
+.comment_wall {
+	margin-top: 30px;
+}
+
+.logout_sess {
+	text-align: center;
+}
+
